@@ -1,0 +1,6 @@
+﻿id_projeto,nome_projeto,responsavel,area,data_inicio,data_fim_planejada,orcamento_aprovado,custo_realizado,status,avanco_planejado_pct,avanco_realizado_pct,saldo_orcamento,percentual_orcamento_consumido,desvio_cronograma_pp,situacao_cronograma,total_atividades,atividades_concluidas,total_riscos,riscos_criticos,riscos_altos
+P001,Implantacao Sistema de Gestao,Ana,Tecnologia,2026-09-01,2026-12-15,80000,42000,Em andamento,60,50,38000,52.5,-10,Atrasado,3,1,2,2,0
+P002,Melhoria de Processos,Carlos,Operacoes,2026-08-01,2026-11-30,45000,30000,Em andamento,75,80,15000,66.67,5,No planejado ou adiantado,2,1,1,0,1
+P003,Implantacao de Indicadores,Mariana,Qualidade,2026-07-01,2026-10-15,30000,32000,Em andamento,100,85,-2000,106.67,-15,Atrasado,2,1,1,1,0
+P004,Automacao de Relatorios,Joao,Tecnologia,2026-09-15,2027-01-30,60000,12000,Em andamento,25,20,48000,20.0,-5,Atrasado,2,0,1,0,1
+P005,Padronizacao Operacional,Beatriz,Operacoes,2026-06-01,2026-09-30,25000,24000,Concluido,100,100,1000,96.0,0,No planejado ou adiantado,2,2,1,0,0

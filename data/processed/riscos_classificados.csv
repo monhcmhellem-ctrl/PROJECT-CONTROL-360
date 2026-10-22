@@ -1,0 +1,7 @@
+﻿id_risco,id_projeto,descricao_risco,probabilidade,impacto,responsavel,data_limite,status,criticidade
+R001,P001,Atraso na configuracao,4,4,Ana,2026-11-05,Em tratamento,Crítico
+R002,P001,Falha nos testes,3,5,Carlos,2026-11-10,Aberto,Crítico
+R003,P002,Resistencia da equipe,3,3,Carlos,2026-10-25,Em tratamento,Alto
+R004,P003,Indicadores inconsistentes,4,5,Mariana,2026-10-10,Aberto,Crítico
+R005,P004,Atraso no desenvolvimento,3,4,Joao,2026-12-01,Aberto,Alto
+R006,P005,Baixa adesao ao processo,2,3,Beatriz,2026-09-20,Encerrado,Moderado
