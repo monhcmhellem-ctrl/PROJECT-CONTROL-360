@@ -26,6 +26,8 @@ Desenvolver uma solução de acompanhamento gerencial que centralize indicadores
 
 ## 📈 Dashboard executivo
 
+![Dashboard PROJECT CONTROL 360](dashboard-project-control-360.png)
+
 O dashboard foi desenvolvido com foco em **clareza visual, hierarquia das informações e facilidade de interpretação**.
 
 A proposta é permitir que gestores identifiquem rapidamente os principais pontos de atenção, sem precisar percorrer diversas telas ou analisar gráficos desnecessariamente complexos.
